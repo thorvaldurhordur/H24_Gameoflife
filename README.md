@@ -27,3 +27,8 @@ Game of life er borðspil þar sem að leikmen (2-4) draga fyrst vinnuspil sem s
 ![Lóðun](IMG_4978.jpeg)
 ![Lóðun](IMG_4979.jpg)
 ![Lóðun](IMG_4980.jpg)
+## útlit spilar
+![spil](IMG_4983.jpg)
+![spil](IMG_4984.jpg)
+![spil](IMG_4985.jpg)
+
