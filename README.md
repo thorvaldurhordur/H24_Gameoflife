@@ -12,4 +12,4 @@ Game of life er borðspil þar sem að leikmen (2-4) draga fyrst vinnuspil sem s
 
 ## Kóði
 
-![kodi](main.py)
+![[kodi](https://www.shutterstock.com/image-illustration/man-face-blended-binary-code-digits-424934155)](main.py)
