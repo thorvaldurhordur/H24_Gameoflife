@@ -9,3 +9,7 @@ Game of life er borðspil þar sem að leikmen (2-4) draga fyrst vinnuspil sem s
 ## Inkscape model
 
 ![inkscape](inkscape.svg)
+
+## Kóði
+
+![kodi](main(1).py)
